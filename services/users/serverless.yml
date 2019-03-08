@@ -1,0 +1,13 @@
+service: seed-demo-api-users
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+functions:
+  hello:
+    handler: handler.main
+    events:
+      - http:
+          path: /
+          method: get

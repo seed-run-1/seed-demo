@@ -1,0 +1,20 @@
+{
+  "name": "seed-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seed-run/demo.git"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seed-run/demo/issues"
+  },
+  "homepage": "https://github.com/seed-run/demo#readme",
+  "devDependencies": {}
+}
