@@ -10,4 +10,3 @@ There are 6 Serverless Framework services. Each of the first 3 services has an A
 - /jobs/etc
 - /jobs/kinesis
 - /jobs/cron
-
